@@ -5,7 +5,6 @@
   for( 
     $i = count($array); 
     $i--;
-    $i > 0;
   )
   {if ($i == $rand)
   {break};
