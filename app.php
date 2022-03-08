@@ -7,7 +7,7 @@
     $i--;
   )
   {if ($i == $rand)
-  {break};
+  {break;};
   };
   echo $array[$i]
 ?>
